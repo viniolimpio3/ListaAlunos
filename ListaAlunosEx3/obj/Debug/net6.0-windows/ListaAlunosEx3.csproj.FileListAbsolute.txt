@@ -1,0 +1,17 @@
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\bin\Debug\net6.0-windows\ListaAlunosEx3.exe
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\bin\Debug\net6.0-windows\ListaAlunosEx3.deps.json
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\bin\Debug\net6.0-windows\ListaAlunosEx3.runtimeconfig.json
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\bin\Debug\net6.0-windows\ListaAlunosEx3.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\bin\Debug\net6.0-windows\ref\ListaAlunosEx3.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\bin\Debug\net6.0-windows\ListaAlunosEx3.pdb
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.csproj.AssemblyReference.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.frmAlunos.resources
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.csproj.GenerateResource.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.AssemblyInfoInputs.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.AssemblyInfo.cs
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.csproj.CoreCompileInputs.cache
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ref\ListaAlunosEx3.dll
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.pdb
+C:\Users\vinio\facul\ec3\estrutura_dados\ListaAlunosEx3\ListaAlunosEx3\obj\Debug\net6.0-windows\ListaAlunosEx3.genruntimeconfig.cache
